@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/peacock"
+        android:title="Павлин"
+        />
+    <item
+        android:id="@+id/owl"
+        android:title="Сова" />
+    <item
+        android:id="@+id/chicken"
+        android:title="Курица" />
+    <item
+        android:id="@+id/duck"
+        android:title="Утка" />
+    <item
+        android:id="@+id/hawk"
+        android:title="Ястреб" />
+    <item
+        android:id="@+id/next_activity"
+        android:title="Следующая Activity" />
+    <!-- Добавьте дополнительные пункты здесь -->
+</menu>
